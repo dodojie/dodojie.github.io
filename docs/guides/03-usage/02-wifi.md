@@ -19,15 +19,10 @@
 
 
 
+连接热点|配置密码|完成配置
+:---:|:---:|:---:
+<img src="/img/wifi11.jpg"  width="300" />|<img src="/img/wifi22.jpg"  width="300" />|<img src="/img/wifi33.jpg"  width="300" />
 
-
-<center>
-	<img src="https://herlon.gitee.io/img-bed/herlon-docs/wifi11.jpg" width="30%" />
-	&emsp;&rArr;&emsp;
-	<img src="https://herlon.gitee.io/img-bed/herlon-docs/wifi22.jpg" width="30%" />
-	&emsp;&rArr;&emsp;
-	<img src="https://herlon.gitee.io/img-bed/herlon-docs/wifi33.jpg" width="30%" />
-</center>
 
 
 
