@@ -101,7 +101,11 @@ const config = {
             position: 'left',
             label: '使用指南',
           },
-          {to: 'https://www.zigbee2mqtt.io/supported-devices/', label: '支持设备', position: 'left'},
+          {
+            href: 'https://www.zigbee2mqtt.io/supported-devices/',
+            label: '支持设备',
+            position: 'left',
+          },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   type: 'dropdown',
@@ -120,6 +124,11 @@ const config = {
           //     },
           //   ],
           // },
+          {
+            href: 'https://jq.qq.com/?_wv=1027&k=BrUCR4mt',
+            label: '加入QQ群',
+            position: 'right',
+          },
           {
             href: 'https://github.com/dodojie/HL810PRO',
             label: 'GitHub',
