@@ -27,12 +27,6 @@
 	<img src="https://herlon.gitee.io/img-bed/herlon-docs/wifi22.jpg" width="30%" />
 	&emsp;&rArr;&emsp;
 	<img src="https://herlon.gitee.io/img-bed/herlon-docs/wifi33.jpg" width="30%" />
-	<br/>
-	<font color="AAAAAA">图一</font>
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<font color="AAAAAA">图二</font>
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<font color="AAAAAA">图三</font>
 </center>
 
 
